@@ -1,0 +1,241 @@
+﻿seedID,transect,cluster,survey.number,anthro.rank,regeneration,sampling.effort,category,species,scientific.name,origin,dispersal.mode,form,length.avg,width.avg,lxw
+2,a,a700,1,2,mature,11,seed.rain,kafeala.vavy,Coffea sp.1,native,lemur,loose,10.3,4.3,44.1
+3,a,a400,1,2,mature,11,seed.rain,kafeala.vavy,Coffea sp.1,native,lemur,loose,10.3,4.3,44.1
+8,a,a500,1,2,mature,11,seed.rain,tsita.liana,unknown,native,unknown,loose,,,0.0
+9,a,a800,1,2,mature,11,seed.rain,rotra,Syzigium sp.,native,lemur,loose,9.3,7.8,72.4
+10,a,a800,1,2,mature,11,seed.rain,rotra,Syzigium sp.,native,lemur,loose,9.3,7.8,72.4
+11,a,a1000,2,2,mature,11,seed.rain,tsiandrova,Pauridiantha paucinervis,native,bird,loose,1.0,1.0,1.0
+4,a,a500,4,2,mature,11,seed.rain,menavahatra,Abrahamia thouvenotii,native,lemur,loose,8.8,4.8,42.1
+5,a,a500,4,2,mature,11,seed.rain,menavahatra,Abrahamia thouvenotii,native,lemur,loose,8.8,4.8,42.1
+6,a,a500,4,2,mature,11,seed.rain,menavahatra,Abrahamia thouvenotii,native,lemur,loose,8.8,4.8,42.1
+7,a,a500,4,2,mature,11,seed.rain,menavahatra,Abrahamia thouvenotii,native,lemur,loose,8.8,4.8,42.1
+1,a,a100,7,2,mature,11,seed.rain,dongavelona,Bakerella spp.,native,bird.lemur,loose,5.1,2.2,11.1
+13,b,b0,1,1,mature,11,seed.rain,kafeala.lahy,Coffea sp.2,native,bird.lemur,loose,10.3,4.3,44.1
+12,b,b100,2,1,mature,11,seed.rain,kafeala.vavy,Coffea sp.1,native,lemur,loose,10.3,4.3,44.1
+14,b,b300,3,1,mature,11,seed.rain,harongana.panihy,Psorospermum trichophyllum,native,bird,loose,3.1,2.8,8.7
+15,c,c100,1,6,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+16,c,c100,1,6,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+17,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+18,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+19,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+20,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+21,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+22,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+23,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+24,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+25,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+26,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+27,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+28,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+29,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+30,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+31,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+32,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+33,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+34,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+35,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+36,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+37,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+38,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+39,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+40,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+41,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+42,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+43,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+44,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+45,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+46,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+47,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+48,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+49,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+50,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+51,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+52,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+53,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+54,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+55,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+56,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+57,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+58,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+59,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+60,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+61,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+62,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+63,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+64,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+65,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+66,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+67,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+68,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+69,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+70,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+71,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+72,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+73,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+74,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+75,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+76,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+77,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+78,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+79,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+80,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+81,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+82,c,c300,1,6,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+83,c,c300,2,6,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+84,c,c300,2,6,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+85,c,c300,2,6,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+86,c,c300,2,6,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+87,c,c300,2,6,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+88,c,c300,2,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+89,c,c300,2,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+90,c,c300,2,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+91,c,c300,2,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+92,c,c300,2,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+93,c,c300,2,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+94,c,c300,2,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+95,c,c300,2,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+96,c,c300,2,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+97,c,c300,2,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+98,c,c300,2,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+99,c,c300,2,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+100,c,c300,3,6,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+101,c,c300,3,6,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+102,d,d0,1,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,bird.feces,1.5,1.5,2.3
+103,d,d0,1,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+104,d,d100,1,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+105,d,d100,1,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+106,d,d100,1,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+107,d,d100,1,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+108,d,d100,1,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+109,d,d200,1,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+110,d,d200,1,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+111,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+112,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+113,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+114,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+115,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+116,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+117,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+118,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+119,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+120,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+121,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+122,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+123,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+124,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+125,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+126,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+127,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+128,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+129,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+130,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+131,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+132,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+133,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+134,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+135,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+136,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+137,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+138,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+139,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+140,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+141,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+142,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+143,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+144,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+145,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+146,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+147,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+148,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+149,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+150,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+151,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+152,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+153,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+154,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+155,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+156,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+157,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+158,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+159,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+160,d,d0,1,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+161,d,d200,1,5,regenerating,4,seed.rain,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+162,d,d0,2,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+163,d,d100,2,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+164,d,d100,2,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+165,d,d100,2,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+166,d,d100,2,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+167,d,d100,2,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+168,d,d200,2,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+169,d,d200,2,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+170,d,d300,2,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+171,d,d0,3,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+172,d,d100,3,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+173,d,d100,3,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+174,d,d100,4,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+175,d,d100,4,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+176,d,d200,4,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+177,d,d300,4,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+178,d,d300,4,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+179,d,d300,4,5,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+180,d,d100,6,5,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+181,d,d0,7,5,regenerating,4,seed.rain,goavy,psidium guajava,nonnative,bird.lemur,loose,5.0,3.0,15.0
+182,e,e100,1,4,regenerating,4,seed.rain,dongavelona,Bakerella spp.,native,bird.lemur,loose,5.1,2.2,11.1
+183,e,e300,1,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+184,e,e200,1,4,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,bird.feces,1.5,1.5,2.3
+185,e,e300,1,4,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+186,e,e200,1,4,regenerating,4,seed.rain,sompatra,Clidemia hirta ,nonnative,bird.lemur,bird.feces,1.0,1.0,1.0
+187,e,e3200,1,4,regenerating,4,seed.rain,gavontsinahy,Psidium cattleyanum ,nonnative,bird.lemur,loose,4.3,3.4,14.5
+188,e,e100,3,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+189,e,e100,3,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+190,e,e100,3,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+191,e,e100,3,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+192,e,e100,3,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+193,e,e100,3,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+194,e,e100,3,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+195,e,e100,3,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+196,e,e100,3,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+197,e,e100,3,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+198,e,e100,3,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+199,e,e100,3,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+200,e,e200,4,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+201,e,e200,4,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+202,e,e200,4,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+203,e,e200,4,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+204,e,e200,4,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+205,e,e200,4,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+206,e,e0,4,4,regenerating,4,seed.rain,molanga,Croton mongue,native,rodent(secondary),loose,21.1,18.8,396.7
+207,e,e100,4,4,regenerating,4,seed.rain,harongana,Harungana madagascariensis,native,bird.lemur,loose,2.1,2.2,4.4
+208,e,e0,5,4,regenerating,4,seed.rain,goavy,psidium guajava,nonnative,bird.lemur,eulemur.feces,5.0,3.0,15.0
+209,e,e0,5,4,regenerating,4,seed.rain,goavy,psidium guajava,nonnative,bird.lemur,eulemur.feces,5.0,3.0,15.0
+210,e,e0,5,4,regenerating,4,seed.rain,goavy,psidium guajava,nonnative,bird.lemur,eulemur.feces,5.0,3.0,15.0
+211,e,e0,5,4,regenerating,4,seed.rain,goavy,psidium guajava,nonnative,bird.lemur,eulemur.feces,5.0,3.0,15.0
+212,e,e0,6,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+213,e,e0,6,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+214,e,e0,6,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+215,e,e0,6,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+216,e,e0,6,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+217,e,e0,6,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+218,e,e0,6,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+219,e,e0,6,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+220,e,e0,6,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+221,e,e0,6,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+222,e,e0,6,4,regenerating,4,seed.rain,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+223,e,e0,6,4,regenerating,4,seed.rain,radriaka,Lantana camara ,nonnative,bird.lemur,bird.feces,1.5,1.5,2.3
+224,f,f300,1,3,mature,9,seed.rain,kafeala.lahy,Coffea sp.2,native,bird.lemur,bird.feces,10.3,4.3,44.1
+225,f,f300,1,3,mature,9,seed.rain,takoaka,Rubus moluccanus,nonnative,bird.lemur,loose,2.7,1.5,4.1
+226,f,f500,1,3,mature,9,seed.rain,takoaka,Rubus moluccanus,nonnative,bird.lemur,bird.feces,2.7,1.5,4.1
+227,f,f500,1,3,mature,9,seed.rain,bohanaka,Danais sp.,native,unknown,loose,1.0,1.0,1.0
+228,f,f100,2,3,mature,9,seed.rain,molanga,Croton mongue,native,rodent(secondary),loose,21.1,18.8,396.7
+229,f,f300,2,3,mature,9,seed.rain,vosary.kely,Zanthoxylum asiaticum,native,bird.lemur,loose,4.0,3.0,12.0
+230,f,f300,2,3,mature,9,seed.rain,vosary.kely,Zanthoxylum asiaticum,native,bird.lemur,loose,4.0,3.0,12.0
+231,f,f100,3,3,mature,9,seed.rain,tsiandrova,Pauridiantha paucinervis,native,bird,loose,1.0,1.0,1.0
+232,f,f800,3,3,mature,9,seed.rain,harongana.panihy,Psorospermum trichophyllum,native,bird,loose,3.1,2.8,8.7
+233,f,f800,3,3,mature,9,seed.rain,harongana.panihy,Psorospermum trichophyllum,native,bird,loose,3.1,2.8,8.7
+234,f,f800,3,3,mature,9,seed.rain,harongana.panihy,Psorospermum trichophyllum,native,bird,loose,3.1,2.8,8.7
+235,f,f100,3,3,mature,9,seed.rain,molanga,Croton mongue,native,rodent(secondary),loose,21.1,18.8,396.7
+236,f,f600,3,3,mature,9,seed.rain,vahimantsina,Paederia thouarsiana,native,unknown,loose,5.5,3.5,19.3
+237,f,f500,3,3,mature,9,seed.rain,bohanaka,Danais sp.,native,unknown,loose,1.0,1.0,1.0
+238,f,f100,4,3,mature,9,seed.rain,molanga,Croton mongue,native,rodent(secondary),loose,21.1,18.8,396.7
+239,f,f400,5,3,mature,9,seed.rain,molanga,Croton mongue,native,rodent(secondary),loose,21.1,18.8,396.7
+240,f,f400,6,3,mature,9,seed.rain,molanga,Croton mongue,native,rodent(secondary),loose,21.1,18.8,396.7
