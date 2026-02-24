@@ -1,4 +1,10 @@
-#Chapter 2 code
+###Maromizaha seed disperal functional shift project
+###This code represents analysis for adult plant communities (part 1),
+###lemur communities (part 2), seed rain (part 3), dispersed seeds (part 4),
+###seed size (part 5)
+
+###Manuscript authors:Eric F Wuesthoff, Lovasoa Natenaina Ratolojanahary, 
+###M. Rahelison, Tojoharilala Fenohasina Merison, Harison Rabarison, Amy E. Dunham
 
 #PREFACE Load packages####
 
