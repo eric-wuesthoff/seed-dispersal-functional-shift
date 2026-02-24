@@ -36,7 +36,7 @@ library(emmeans)
 #1a: Load & configure data####
 
 #taxa abundance by trap cluster
-overhang <- read.csv ('/Users/ericwuesthoff/Desktop/Maromizaha Dispersal (Ch 2)/Spreadsheets/Formatted for analysis/plant_community_overhang_mmz2022.csv')
+overhang <- read.csv ('Final Data/plant_community_overhang_mmz2022.csv')
 #combine trap clusters for one row per transect
 overhang_sum <- rowsum(x = overhang[c(1:43),c(7:181)], group = overhang$Transect[c(1:43)])
 Transect <- c("a","b","c","d","e","f")
@@ -46,7 +46,7 @@ Anthro.rank <- c("2","1","6","5","4","3")
 overhang_sum <- data.frame(Transect, Habitat, Regeneration, Anthro.rank, overhang_sum)
 
 #plant flowering and fruiting rates by survey number
-overhang.phenology <- read.csv('/Users/ericwuesthoff/Desktop/Maromizaha Dispersal (Ch 2)/Spreadsheets/Formatted for analysis/overhang_phenology.csv')
+overhang.phenology <- read.csv('Final Data/overhang_phenology.csv')
 #create vector of proportion of plants that are non-native (1 sig fig)
 proportion.nonnative <-c(0.004, 0.004, 0.3, 0.4, 0.3, 0.05)
 
@@ -225,7 +225,7 @@ fruit.plots <- grid.arrange(total.fruit.proportion.plot,nonnative.fruit.proporti
 #PART 2: Lemur Transect Surveys (Encounter Rates)####
 
 #2a: Load & configure data#####
-lemur_species_encounters<- read.csv("/Users/ericwuesthoff/Desktop/lemur_survey_species_encounter_rates.csv")
+lemur_species_encounters<- read.csv("Final Data/lemur_survey_species_encounter_rates.csv")
 #Lemur diet/activity guilds:
 #1. diurnal frugivores: Vareica, Eulemur
 #2. diurnal folivores: Hapalemur, Propithecus, Indri
@@ -234,7 +234,7 @@ lemur_species_encounters<- read.csv("/Users/ericwuesthoff/Desktop/lemur_survey_s
 
 #encounter rates are for each transect are calculated by (number of animals observed) / (length of transect)
 
-lemur_encounter.rates <-read.csv("/Users/ericwuesthoff/Desktop/lemur_functional_encounter_rates.csv")
+lemur_encounter.rates <-read.csv("Final Data/lemur_functional_encounter_rates.csv")
 #test for normality
 shapiro.test(lemur_encounter.rates$func.encounter.rate) #p-value < 2.2e-16, non-normal
 
@@ -264,7 +264,7 @@ contrast(em, "pairwise", adjust = "Tukey")
 
 ##2c Model lemur encounter rates by body size functional group ####
 
-lemur.size <- read.csv("/Users/ericwuesthoff/Desktop/lemur_size_combined.csv")
+lemur.size <- read.csv("Final Data/lemur_size_combined.csv")
 lemur.size$survey.ID<-as.factor(lemur.size$survey.ID)
 #test for normality
 shapiro.test(lemur.size$size.encounter.rate) #p-value < 2.2e-16, non-normal
@@ -304,7 +304,7 @@ aov(size.encounter.rate~regeneration,dat=micro.size)
 #2e: Lemur heatmap visualizations ####
 
 #cumulative encounter rate by species
-lemur.abun <- read.csv("/Users/ericwuesthoff/Desktop/PhD data/MMZ 2022 Data/CSVs/lemur_abundances.csv")
+lemur.abun <- read.csv("Final Data/lemur_abundances.csv")
 lemur.abun$species <- factor(lemur.abun$species,
                              levels=c("ms","mr","ml","lm","al","hg","pd","ii","ef","vv"))
 lemur.abun$anthro.rank <- factor(lemur.abun$anthro.rank,
@@ -330,7 +330,7 @@ lemur.sp.abundance<-
                                              "Propithecus diadema","Indri indri","Eulemur fulvus","Varecia variegata"))
 
 ##cumulative encounter rate by diet/activity guild 
-lemur.enc.transect2 <- read.csv("/Users/ericwuesthoff/Desktop/lemur_transect_rates2.csv")
+lemur.enc.transect2 <- read.csv("Final Data/lemur_transect_rates2.csv")
 lemur.enc.transect2$functional.group <- factor(lemur.enc.transect2$functional.group,
                                                levels=c("diu.frug","diu.fol","noc.fol","micro"))
 lemur.enc.transect2$transect <- factor(lemur.enc.transect2$transect,
@@ -393,12 +393,12 @@ ggplot(microcebus_encounter,aes(x=order.transect,y=size.encounter.rate*100,fill=
 #3a: Load & configure data####
 
 #counts of taxon-identified seeds from seed rain by each transect
-rain_counts_species <-read.csv('/Users/ericwuesthoff/Desktop/Maromizaha Dispersal (Ch 2)/Spreadsheets/Formatted for analysis/seed_rain_counts_species.csv')
+rain_counts_species <-read.csv('Final Data/seed_rain_counts_species.csv')
 rain_counts_species$transect <- factor(rain_counts_species$transect)
 #data on individual seeds recorded in seed rain
 rain_individuals <- read.csv('/Users/ericwuesthoff/Desktop/Maromizaha Dispersal (Ch 2)/Spreadsheets/Formatted for analysis/rain.seed.individuals.csv')
 #data seed rain & dispersal rates on each transect by week (and associated fruiting rates)
-rain.dispersal_rates <-read.csv('/Users/ericwuesthoff/Desktop/Maromizaha Dispersal (Ch 2)/Spreadsheets/Formatted for analysis/seed.rain.dispersal.rates.csv')
+rain.dispersal_rates <-read.csv('Final Data/seed.rain.dispersal.rates.csv')
 
 #3b: Calculate diversity metrics####
 
@@ -563,9 +563,9 @@ rain.plots <- grid.arrange(total_rain_plot,non.native_rain_plot,ncol=2,
 #4a: load & configure data####
 
 #counts of taxon-identified dispersed seeds by each transect
-dispersal_counts_species <-read.csv ('/Users/ericwuesthoff/Desktop/Maromizaha Dispersal (Ch 2)/Spreadsheets/Formatted for analysis/seed_dispersal_counts_species.csv')
+dispersal_counts_species <-read.csv ('Final Data/seed_dispersal_counts_species.csv')
 #data on individual seeds recorded as dispersed
-dispersal_individuals <- read.csv('/Users/ericwuesthoff/Desktop/Maromizaha Dispersal (Ch 2)/Spreadsheets/Formatted for analysis/dispersal.seed.individuals.csv')
+dispersal_individuals <- read.csv('Final Data/dispersal.seed.individuals.csv')
 
 #4b: Calculate diversity metrics####
 
@@ -768,8 +768,8 @@ grid.arrange(fruit.plots,rain.plots,dispersed.plots,ncol=1,
 #PART 5: Seed Size ####
 
 #5a: load & configure data ####
-rain_individuals <- read.csv('/Users/ericwuesthoff/Desktop/Maromizaha Dispersal (Ch 2)/Spreadsheets/Formatted for analysis/rain.seed.individuals.csv')
-dispersal_individuals <- read.csv('/Users/ericwuesthoff/Desktop/Maromizaha Dispersal (Ch 2)/Spreadsheets/Formatted for analysis/dispersal.seed.individuals.csv')
+rain_individuals <- read.csv('Final Data/rain.seed.individuals.csv')
+dispersal_individuals <- read.csv('Final Data/dispersal.seed.individuals.csv')
 
 #5b: Compare differences in seed sizes between habitats ####
 
