@@ -9,7 +9,7 @@ Maromizaha Natural Resources Reserve, eastern Madagascar.
 File list & descriptions:
 
 dispersal.seed.individuals.csv: Data on species and size of seeds collected from seed traps 
-classified as dispersed
+classified as dispersed.
 
 lemur_abundances.csv: Data on lemur encounters by species for each transect survey. 
 Encounter rates measured in individuals/meter.
@@ -18,14 +18,26 @@ lemur_functional_encounter_rates.csv: Data on lemur encounters by functional gro
 (body size, diet, activiy period) for each transect survey. Encounter rates measured 
 in individuals/meter.
 
-lemur_size_combined.csv: 
+lemur_size_combined.csv: Data on lemur encounters by body size.
 
 lemur_survey_species_encounter_rates.csv: Data on lemur encounters by species for each transect survey.
 
 lemur_transect_rates2.csv: Data on cumulative lemur encounters by functional group. 
 Encounter rates measured in individuals/meter. Formatted for visualization.
 
-overhang_phenology: Data on fruiting and flowering of adult plants overhanging seed traps by survey week.
+overhang_phenology.csv: Data on fruiting and flowering of adult plants overhanging seed traps by survey week.
+
+plant_community_overhang.csv: Data on species identity and abundance in adult plants overhanging seed traps 
+by trap cluster.
+
+rain.seed.individuals.csv: Data on species and size of seeds collected from seed traps (all samples).
+
+seed.rain.dispersal.rates.csv: Data on rates of seed rain and dispersal from seed trap samples per survey week 
+along each transect.
+
+seed_dispersal_counts.csv: Data on cumulative counts of dispersed seeds in seed traps for each transect by species.
+
+seed_rain_counts.csv: Data on cumulative counts of total seeds in seed traps for each transect by species.
 
 
 
