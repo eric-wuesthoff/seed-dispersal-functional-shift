@@ -1,0 +1,86 @@
+﻿seedID,transect,cluster,survey.number,anthro.rank,regeneration,sampling.effort,category,species,scientific.name,origin,dispersal.mode,form,length.avg,width.avg,lxw
+3,a,a400,1,2,mature,11,dispersed.seed,kafeala.vavy,Coffea sp.1,native,lemur,loose,10.3,4.3,44.1
+8,a,a500,1,2,mature,11,dispersed.seed,tsita.liana,,native,,loose,,,0.0
+9,a,a800,1,2,mature,11,dispersed.seed,rotra,Syzigium sp.,native,lemur,loose,9.3,7.8,72.4
+10,a,a800,1,2,mature,11,dispersed.seed,rotra,Syzigium sp.,native,lemur,loose,9.3,7.8,72.4
+4,a,a500,4,2,mature,11,dispersed.seed,menavahatra,Abrahamia thouvenotii,native,lemur,loose,8.8,4.8,42.1
+5,a,a500,4,2,mature,11,dispersed.seed,menavahatra,Abrahamia thouvenotii,native,lemur,loose,8.8,4.8,42.1
+6,a,a500,4,2,mature,11,dispersed.seed,menavahatra,Abrahamia thouvenotii,native,lemur,loose,8.8,4.8,42.1
+7,a,a500,4,2,mature,11,dispersed.seed,menavahatra,Abrahamia thouvenotii,native,lemur,loose,8.8,4.8,42.1
+1,a,a100,7,2,mature,11,dispersed.seed,dongavelona,Bakerella spp.,native,bird.lemur,loose,5.1,2.2,11.1
+13,b,b0,1,1,mature,11,dispersed.seed,kafeala.lahy,Coffea sp.2,native,bird.lemur,loose,10.3,4.3,44.1
+14,b,b300,3,1,mature,11,dispersed.seed,harongana.panihy,Psorospermum trichophyllum,native,bird,loose,3.1,2.8,8.7
+15,c,c100,1,6,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+16,c,c100,1,6,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+38,c,c300,1,6,regenerating,4,dispersed.seed,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+39,c,c300,1,6,regenerating,4,dispersed.seed,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+40,c,c300,1,6,regenerating,4,dispersed.seed,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+41,c,c300,1,6,regenerating,4,dispersed.seed,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+42,c,c300,1,6,regenerating,4,dispersed.seed,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+43,c,c300,1,6,regenerating,4,dispersed.seed,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+44,c,c300,2,6,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+45,c,c300,2,6,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+46,c,c300,2,6,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+47,c,c300,2,6,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+48,c,c300,2,6,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,loose,1.0,1.0,1.0
+49,c,c300,3,6,regenerating,4,dispersed.seed,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+102,d,d0,1,5,regenerating,4,dispersed.seed,radriaka,Lantana camara ,nonnative,bird.lemur,bird.feces,1.5,1.5,2.3
+181,d,d200,1,5,regenerating,4,dispersed.seed,mahabanky,Ischaemum rugosum,nonnative,wind,loose,3.0,1.0,3.0
+111,d,d0,2,5,regenerating,4,dispersed.seed,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+112,d,d100,2,5,regenerating,4,dispersed.seed,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+117,d,d200,2,5,regenerating,4,dispersed.seed,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+119,d,d300,2,5,regenerating,4,dispersed.seed,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+120,d,d0,3,5,regenerating,4,dispersed.seed,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+125,d,d200,4,5,regenerating,4,dispersed.seed,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+178,d,d300,4,5,regenerating,4,dispersed.seed,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+179,d,d300,4,5,regenerating,4,dispersed.seed,sompatra,Clidemia hirta ,nonnative,bird.lemur,loose,1.0,1.0,1.0
+127,d,d100,6,5,regenerating,4,dispersed.seed,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+180,d,d0,7,5,regenerating,4,dispersed.seed,goavy,psidium guajava,nonnative,bird.lemur,loose,5.0,3.0,15.0
+182,e,e100,1,4,regenerating,4,dispersed.seed,dongavelona,Bakerella spp.,native,bird.lemur,loose,5.1,2.2,11.1
+201,e,e200,1,4,regenerating,4,dispersed.seed,radriaka,Lantana camara ,nonnative,bird.lemur,bird.feces,1.5,1.5,2.3
+202,e,e300,1,4,regenerating,4,dispersed.seed,radriaka,Lantana camara ,nonnative,bird.lemur,loose,1.5,1.5,2.3
+204,e,e200,1,4,regenerating,4,dispersed.seed,sompatra,Clidemia hirta ,nonnative,bird.lemur,bird.feces,1.0,1.0,1.0
+210,e,e200,1,4,regenerating,4,dispersed.seed,gavontsinahy,Psidium cattleyanum ,nonnative,bird.lemur,loose,4.3,3.4,14.5
+211,e,e100,3,4,regenerating,4,dispersed.seed,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+212,e,e100,3,4,regenerating,4,dispersed.seed,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+213,e,e100,3,4,regenerating,4,dispersed.seed,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+214,e,e100,3,4,regenerating,4,dispersed.seed,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+215,e,e100,3,4,regenerating,4,dispersed.seed,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+216,e,e100,3,4,regenerating,4,dispersed.seed,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+217,e,e100,3,4,regenerating,4,dispersed.seed,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+218,e,e100,3,4,regenerating,4,dispersed.seed,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+219,e,e100,3,4,regenerating,4,dispersed.seed,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+220,e,e100,3,4,regenerating,4,dispersed.seed,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+221,e,e100,3,4,regenerating,4,dispersed.seed,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+222,e,e100,3,4,regenerating,4,dispersed.seed,harongana,Harungana madagascariensis,native,bird.lemur,eulemur.feces,2.1,2.2,4.4
+184,e,e200,4,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+185,e,e200,4,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+186,e,e200,4,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+209,e,e0,4,4,regenerating,4,dispersed.seed,molanga,Croton mongue,native,rodent(secondary),loose,21.1,18.8,396.7
+205,e,e0,5,4,regenerating,4,dispersed.seed,goavy,psidium guajava,nonnative,bird.lemur,eulemur.feces,5.0,3.0,15.0
+206,e,e0,5,4,regenerating,4,dispersed.seed,goavy,psidium guajava,nonnative,bird.lemur,eulemur.feces,5.0,3.0,15.0
+207,e,e0,5,4,regenerating,4,dispersed.seed,goavy,psidium guajava,nonnative,bird.lemur,eulemur.feces,5.0,3.0,15.0
+208,e,e0,5,4,regenerating,4,dispersed.seed,goavy,psidium guajava,nonnative,bird.lemur,eulemur.feces,5.0,3.0,15.0
+190,e,e0,6,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+191,e,e0,6,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+192,e,e0,6,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+193,e,e0,6,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+194,e,e0,6,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+195,e,e0,6,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+196,e,e0,6,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+197,e,e0,6,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+198,e,e0,6,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+199,e,e0,6,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+200,e,e0,6,4,regenerating,4,dispersed.seed,radoka,Maesa lanceolata,native,bird.lemur,bird.feces,1.0,1.0,1.0
+203,e,e0,6,4,regenerating,4,dispersed.seed,radriaka,Lantana camara ,nonnative,bird.lemur,bird.feces,,,0.0
+225,f,f300,1,3,mature,9,dispersed.seed,kafeala.lahy,Coffea sp.2,native,bird.lemur,bird.feces,10.3,4.3,44.1
+236,f,f300,1,3,mature,9,dispersed.seed,takoaka,Rubus moluccanus,nonnative,bird.lemur,loose,2.7,1.5,4.1
+237,f,f500,1,3,mature,9,dispersed.seed,takoaka,Rubus moluccanus,nonnative,bird.lemur,bird.feces,2.7,1.5,4.1
+229,f,f100,2,3,mature,9,dispersed.seed,molanga,Croton mongue,native,rodent(secondary),loose,21.1,18.8,396.7
+234,f,f300,2,3,mature,9,dispersed.seed,vosary.kely,Zanthoxylum asiaticum,native,bird.lemur,loose,4.0,3.0,12.0
+235,f,f300,2,3,mature,9,dispersed.seed,vosary.kely,Zanthoxylum asiaticum,native,bird.lemur,loose,4.0,3.0,12.0
+224,f,f100,3,3,mature,9,dispersed.seed,tsiandrova,Pauridiantha paucinervis,native,bird,loose,1.0,1.0,1.0
+230,f,f100,3,3,mature,9,dispersed.seed,molanga,Croton mongue,native,rodent(secondary),loose,21.1,18.8,396.7
+231,f,f100,4,3,mature,9,dispersed.seed,molanga,Croton mongue,native,rodent(secondary),loose,21.1,18.8,396.7
+232,f,f400,5,3,mature,9,dispersed.seed,molanga,Croton mongue,native,rodent(secondary),loose,21.1,18.8,396.7
+233,f,f400,6,3,mature,9,dispersed.seed,molanga,Croton mongue,native,rodent(secondary),loose,21.1,18.8,396.7
