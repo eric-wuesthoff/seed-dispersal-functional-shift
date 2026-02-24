@@ -1,0 +1,31 @@
+Metadata File Structure
+
+Repository description:
+
+R scripts and data for Maromizaha seed dispersal project, which assesses how mature and regenerating 
+rainforests differ in their primate disperser communities, seed rain, and adult plant reproduction at 
+Maromizaha Natural Resources Reserve, eastern Madagascar.
+
+File list & descriptions:
+
+dispersal.seed.individuals.csv: Data on species and size of seeds collected from seed traps 
+classified as dispersed
+
+lemur_abundances.csv: Data on lemur encounters by species for each transect survey. 
+Encounter rates measured in individuals/meter.
+
+lemur_functional_encounter_rates.csv: Data on lemur encounters by functional groups 
+(body size, diet, activiy period) for each transect survey. Encounter rates measured 
+in individuals/meter.
+
+lemur_size_combined.csv: 
+
+lemur_survey_species_encounter_rates.csv: Data on lemur encounters by species for each transect survey.
+
+lemur_transect_rates2.csv: Data on cumulative lemur encounters by functional group. 
+Encounter rates measured in individuals/meter. Formatted for visualization.
+
+overhang_phenology: Data on fruiting and flowering of adult plants overhanging seed traps by survey week.
+
+
+
